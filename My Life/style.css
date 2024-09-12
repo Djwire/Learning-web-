@@ -1,0 +1,20 @@
+ul{ color:pink;
+font-size: 5ex;
+}
+body{background-color: black;}
+p { font-size: 3ex;}
+h3{color: rgb(75, 73, 73);
+font-style: oblique;
+font-size: 15px;}
+img {width: 500px;
+padding:50px 50px 50px 400px;}
+.para1{color: pink;
+font-size: 8
+3.5ex;;}
+.para2 { color:pink;
+font-size: 3.5ex;
+}
+.para3 {font-size: 3.5ex;
+color: pink;}
+.text1{color: pink;}
+h1 {font-style: var(3.5ex);}
